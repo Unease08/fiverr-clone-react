@@ -134,7 +134,7 @@ export const gigs = [
     desc: "I will creating unique ai generated artworks mid journey ai artist",
     price: 112,
     star: 5,
-    username: "Carol Steve",
+    username: "Anish Shrestha",
   },
   {
     id: 4,
